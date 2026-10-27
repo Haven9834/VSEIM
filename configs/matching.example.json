@@ -1,0 +1,10 @@
+{
+  "visual_csv": "",
+  "ais_csv": "",
+  "distance_threshold_m": null,
+  "max_interpolation_gap_s": null,
+  "min_track_matches": null,
+  "min_track_fraction": null,
+  "median_margin_m": null,
+  "cameras": {"Camera_01": {"homography": null}}
+}

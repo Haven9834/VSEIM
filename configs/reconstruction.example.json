@@ -1,0 +1,40 @@
+{
+  "observations_json": "",
+  "vlm": {
+    "endpoint": "",
+    "api_key_env": "",
+    "model": "",
+    "prompt_file": "",
+    "temperature": null,
+    "max_tokens": null,
+    "timeout_s": 60
+  },
+  "context_expansion": null,
+  "clipseg": {"model": "", "device": "cpu", "local_files_only": true},
+  "sam2": {"model_config": "", "checkpoint": "", "device": "cpu"},
+  "grounding": {
+    "positive_threshold": null,
+    "negative_threshold": null,
+    "positive_points": null,
+    "negative_points": null,
+    "semantic_weight": null,
+    "continuity_weight": null,
+    "min_mask_pixels": null,
+    "min_sam_score": null
+  },
+  "boundary": {
+    "min_columns": null,
+    "median_window": null,
+    "mad_multiplier": null,
+    "residual_floor_px": null,
+    "polynomial_degree": null
+  },
+  "geometry": {
+    "reprojection_tolerance_px": null,
+    "min_samples": null,
+    "mad_multiplier": null,
+    "freeboard_floor_m": null,
+    "min_valid_frames": null
+  },
+  "cameras": {"Camera_01": {"homography": null, "projection_matrix": null}}
+}

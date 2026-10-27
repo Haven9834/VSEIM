@@ -1,0 +1,13 @@
+{
+  "input_csv": "",
+  "include_reference": false,
+  "model": {
+    "draft_exponent": null,
+    "speed_exponent": null,
+    "load_cap": null,
+    "low_load_threshold": null,
+    "load_points": [],
+    "low_load_factors": {"CO2": [], "CO": [], "VOCs": [], "NOx": [], "PM10": [], "SO2": []},
+    "parameter_source": ""
+  }
+}

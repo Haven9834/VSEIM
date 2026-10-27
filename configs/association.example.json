@@ -1,0 +1,13 @@
+{
+  "render": {"panel_width": 1600, "font_path": ""},
+  "cameras": [
+    {
+      "camera": "Camera_01", "clip": "",
+      "matches_csv": "", "mapping_csv": "", "images_dir": "",
+      "original_size": [null, null], "display_crop": [null, null, null, null],
+      "coordinates": {"space": "", "crop": [null, null, null, null], "resized_size": [null, null]},
+      "speed_unit": "kn", "accepted_statuses": [], "name_prefix": 2,
+      "fields": {}, "mapping_fields": {}
+    }
+  ]
+}

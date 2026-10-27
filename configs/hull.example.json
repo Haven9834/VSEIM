@@ -1,0 +1,10 @@
+{
+  "frames": [
+    {
+      "camera": "Camera_01", "clip": "", "frame_id": "",
+      "image": "", "image_sha256": "", "original_size": [null, null],
+      "vessel_mask": "", "probability": "", "hulls": "",
+      "display_crop": [null, null, null, null]
+    }
+  ]
+}
