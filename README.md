@@ -2,7 +2,6 @@
 
 A vision-language model-guided framework for reconstructing vessel operating draft and improving AIS-based ship emission inventories.
 
-**Repository:** [Haven9834/VSEIM](https://github.com/Haven9834/VSEIM)
 
 ## Abstract
 
@@ -45,5 +44,5 @@ The Qwen-compatible API endpoint, model identifier and credential environment va
 
 ## Data Availability
 
-The complete dataset is scheduled for public release on December 31, 2027. Researchers seeking early access may contact us at haifding@polyu.edu.hk. Early access may be granted following communication and verification of compliance with applicable data security protocols.
+The complete dataset is scheduled for public release on December 31, 2027. Researchers seeking early access may contact us. Early access may be granted following communication and verification of compliance with applicable data security protocols.
 
